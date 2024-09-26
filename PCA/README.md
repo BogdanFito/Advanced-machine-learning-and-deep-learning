@@ -1,2 +1,2 @@
-![1 task](task_img/task_1.png)
-![2 task](task_img/task_2.png)
+![Первое задание](tasks_img/task_1.png)
+![Второе задание](tasks_img/task_2.png)
