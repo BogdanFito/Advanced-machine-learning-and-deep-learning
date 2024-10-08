@@ -1,0 +1,7 @@
+![1 task](tasks_img/task1.1.png)
+![1 task](tasks_img/task1.2.png)
+![2 task](tasks_img/task2.1.png)
+![2 task](tasks_img/task2.2.png)
+![2 task](tasks_img/task2.3.png)
+![2 task](tasks_img/task2.4.png)
+![3 task](tasks_img/task3.png)
